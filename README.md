@@ -10,6 +10,11 @@ Modules/Packages used:
 * colorama
 * scapy
 * time
+<!-- -->
+Install the dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ## Input
 * '-t', "--target" : Target to perform SYN Flooding Attack on
